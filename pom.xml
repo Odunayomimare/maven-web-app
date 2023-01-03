@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://15.223.50.81:8081/repository/Td-app-job-releases/</url>
+	      <url>http://15.223.50.81:8081/repository/Mercerdes-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.223.50.81:8081/repository/Td-app-job-snapshots/</url>
+	      <url>http://15.223.50.81:8081/repository/Mercerdes-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
